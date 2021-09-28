@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/thoughts-collector/static/css/main.2e03f967.chunk.css",
+    "main.js": "/thoughts-collector/static/js/main.3a52894b.chunk.js",
+    "main.js.map": "/thoughts-collector/static/js/main.3a52894b.chunk.js.map",
+    "runtime-main.js": "/thoughts-collector/static/js/runtime-main.e6b4919d.js",
+    "runtime-main.js.map": "/thoughts-collector/static/js/runtime-main.e6b4919d.js.map",
+    "static/js/2.742a058e.chunk.js": "/thoughts-collector/static/js/2.742a058e.chunk.js",
+    "static/js/2.742a058e.chunk.js.map": "/thoughts-collector/static/js/2.742a058e.chunk.js.map",
+    "static/js/3.2c713b9e.chunk.js": "/thoughts-collector/static/js/3.2c713b9e.chunk.js",
+    "static/js/3.2c713b9e.chunk.js.map": "/thoughts-collector/static/js/3.2c713b9e.chunk.js.map",
+    "index.html": "/thoughts-collector/index.html",
+    "static/css/main.2e03f967.chunk.css.map": "/thoughts-collector/static/css/main.2e03f967.chunk.css.map",
+    "static/js/2.742a058e.chunk.js.LICENSE.txt": "/thoughts-collector/static/js/2.742a058e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6b4919d.js",
+    "static/js/2.742a058e.chunk.js",
+    "static/css/main.2e03f967.chunk.css",
+    "static/js/main.3a52894b.chunk.js"
+  ]
+}
